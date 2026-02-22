@@ -2,6 +2,9 @@
 
 Suite completa de testes automatizados para a [API ViaCEP](https://viacep.com.br), com relatório HTML interativo.
 
+<img width="1103" height="711" alt="image" src="https://github.com/user-attachments/assets/2e41ef70-b86b-4010-9ac4-2c0886e61565" />
+
+
 ---
 
 ## 📁 Estrutura
