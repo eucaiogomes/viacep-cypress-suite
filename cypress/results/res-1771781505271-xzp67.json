@@ -1,0 +1,6 @@
+{
+  "suite": "CEPs Inválidos",
+  "testName": "Resposta de CEP inexistente contém apenas \"erro\"",
+  "status": "passed",
+  "timestamp": "2026-02-22T17:31:45.271Z"
+}

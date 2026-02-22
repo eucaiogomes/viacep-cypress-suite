@@ -1,0 +1,6 @@
+{
+  "suite": "Schema",
+  "testName": "Campo \"uf\" é uma UF brasileira válida",
+  "status": "passed",
+  "timestamp": "2026-02-22T17:31:58.049Z"
+}

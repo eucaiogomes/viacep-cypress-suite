@@ -1,0 +1,6 @@
+{
+  "suite": "Performance",
+  "testName": "Tempo consistente em 3 chamadas seguidas (< 3000ms cada)",
+  "status": "passed",
+  "timestamp": "2026-02-22T17:32:01.662Z"
+}

@@ -1,0 +1,6 @@
+node_modules/
+report/
+cypress/videos/
+cypress/screenshots/
+cypress/results/
+.env

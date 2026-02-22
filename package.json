@@ -1,0 +1,15 @@
+{
+  "name": "viacep-cypress",
+  "version": "1.0.0",
+  "description": "Suite de testes para a API ViaCEP com relatório inteligente",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "test:open": "npx cypress open",
+    "test:full": "npm test && node scripts/generate-report.js",
+    "report": "node scripts/generate-report.js"
+  },
+  "devDependencies": {
+    "cypress": "^13.0.0"
+  }
+}

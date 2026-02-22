@@ -1,0 +1,6 @@
+{
+  "suite": "Schema",
+  "testName": "Campo \"cep\" é do tipo string",
+  "status": "passed",
+  "timestamp": "2026-02-22T17:31:57.298Z"
+}

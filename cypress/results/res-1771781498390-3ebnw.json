@@ -1,0 +1,6 @@
+{
+  "suite": "CEPs Válidos",
+  "testName": "CEP retornado bate com o buscado",
+  "status": "passed",
+  "timestamp": "2026-02-22T17:31:38.390Z"
+}

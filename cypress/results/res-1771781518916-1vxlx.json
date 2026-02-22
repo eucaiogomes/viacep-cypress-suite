@@ -1,0 +1,6 @@
+{
+  "suite": "Schema",
+  "testName": "Campo \"ibge\" tem 6 ou 7 dígitos",
+  "status": "passed",
+  "timestamp": "2026-02-22T17:31:58.916Z"
+}

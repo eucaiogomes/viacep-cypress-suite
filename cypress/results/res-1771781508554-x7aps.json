@@ -1,0 +1,6 @@
+{
+  "suite": "CEPs Formato Errado",
+  "testName": "CEP com caractere especial retorna status 400",
+  "status": "passed",
+  "timestamp": "2026-02-22T17:31:48.554Z"
+}

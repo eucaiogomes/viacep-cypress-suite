@@ -1,6 +1,6 @@
 # 📮 ViaCEP — Cypress Test Suite
 
-Suite completa de testes automatizados para a [API ViaCEP](https://viacep.com.br), com análise inteligente de falhas via **Grok AI** e relatório HTML interativo.
+Suite completa de testes automatizados para a [API ViaCEP](https://viacep.com.br), com relatório HTML interativo.
 
 ---
 
@@ -19,7 +19,7 @@ viacep-cypress/
 │       ├── commands.js                # Comandos customizados
 │       └── e2e.js                     # Setup global + coleta de falhas
 ├── scripts/
-│   └── generate-report.js            # Relatório HTML + Grok AI
+│   └── generate-report.js            # Gerador de relatório HTML
 ├── report/                            # Relatórios gerados (git ignored)
 ├── cypress.config.js
 └── package.json
@@ -31,9 +31,6 @@ viacep-cypress/
 
 ```bash
 npm install
-
-# Configurar chave Grok (opcional)
-export GROK_API_KEY=sua_chave_aqui
 
 # Rodar tudo e gerar relatório
 npm run test:full
@@ -59,17 +56,9 @@ npm run test:open
 
 ---
 
-## 🤖 Grok AI
-
-Falhas capturadas automaticamente e enviadas para diagnóstico via API xAI.
-Obtenha sua chave em: [console.x.ai](https://console.x.ai)
-
----
-
 ## 🛠️ Tecnologias
 
 - [Cypress 13](https://www.cypress.io/)
 - [ViaCEP API](https://viacep.com.br)
-- [Grok AI — xAI](https://x.ai)
 - [Node.js](https://nodejs.org/)
 "# viacep-cypress-suite" 

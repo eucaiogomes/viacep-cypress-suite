@@ -1,0 +1,6 @@
+{
+  "suite": "Performance",
+  "testName": "Formato errado respondeu em 360ms (< 1000ms)",
+  "status": "passed",
+  "timestamp": "2026-02-22T17:32:00.620Z"
+}
